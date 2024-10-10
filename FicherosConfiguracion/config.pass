@@ -1,0 +1,6 @@
+#Fichero de configuración
+#Mon Sep 23 13:11:29 CEST 2024
+password=p@ssw0rd
+port=3306
+server=goldengate.tk
+user=root

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arcade>
+     <producto id ="1">
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken.</nombre>
+        <caracteristicas>Giro 360 grados y ajustable en altura.</caracteristicas>
+        <materialBasePie>Base y pie de acero cromado.</materialBasePie>
+        <reposapies>Reposapiés cromado.</reposapies>
+        <antideslizate>Protección antideslizante en la base.</antideslizate>
+        <acabados>Acabado de alta calidad y muy firme</acabados>
+        <tipoAsiento>Asiento acolchado.</tipoAsiento>
+        <alturaTotal>aprox. 63 – 84 cm.</alturaTotal>
+        <asiento>aprox. 35 cm.</asiento>
+        <base>aprox. 39 cm.</base>
+        <distancia>aprox. 43 cm.</distancia>
+        <pie>aprox. 6 cm.</pie>
+        <peso>aprox. 4,8 kg.</peso>
+        <materiales>cuero sintético, acero cromado, plástico y tela.</materiales>
+    </producto>
+    <producto id ="2">
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken.</nombre>
+        <caracteristicas>Giro 360 grados y ajustable en altura.</caracteristicas>
+        <materialBasePie>Base y pie de acero cromado.</materialBasePie>
+        <reposapies>Reposapiés cromado.</reposapies>
+        <antideslizate>Protección antideslizante en la base.</antideslizate>
+        <acabados>Acabado de alta calidad y muy firme</acabados>
+        <tipoAsiento>Asiento acolchado.</tipoAsiento>
+        <alturaTotal>aprox. 63 – 84 cm.</alturaTotal>
+        <asiento>aprox. 35 cm.</asiento>
+        <base>aprox. 39 cm.</base>
+        <distancia>aprox. 43 cm.</distancia>
+        <pie>aprox. 6 cm.</pie>
+        <peso>aprox. 4,8 kg.</peso>
+        <materiales>cuero sintético, acero cromado, plástico y tela.</materiales>
+    </producto>
+    <producto id ="3">
+        <nombre>Taburete arcade personalizado con diseño de Mario Bros.</nombre>
+        <caracteristicas>Giro 360 grados y ajustable en altura.</caracteristicas>
+        <materialBasePie>Base y pie de acero cromado.</materialBasePie>
+        <reposapies>Reposapiés cromado.</reposapies>
+        <antideslizate>Protección antideslizante en la base.</antideslizate>
+        <acabados>Acabado de alta calidad y muy firme</acabados>
+        <tipoAsiento>Asiento acolchado.</tipoAsiento>
+        <alturaTotal>aprox. 63 – 84 cm.</alturaTotal>
+        <asiento>aprox. 35 cm.</asiento>
+        <base>aprox. 39 cm.</base>
+        <distancia>aprox. 43 cm.</distancia>
+        <pie>aprox. 6 cm.</pie>
+        <peso>aprox. 4,8 kg.</peso>
+        <materiales>cuero sintético, acero cromado, plástico y tela.</materiales>
+    </producto>
+</arcade>
+
+
